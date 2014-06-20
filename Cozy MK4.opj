@@ -1,0 +1,151 @@
+(ExpressProject "Cozy MK4"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\cozy_parts.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\cozy mk4.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("RELAY SPDT1"
+      (FullPartName "RELAY SPDT1.Normal")
+      (LibraryName "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY_PARTS.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("RELAY SPDT"
+      (FullPartName "RELAY SPDT.Normal")
+      (LibraryName "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY_PARTS.OLB")
+      (DeviceIndex "0"))
+    ("FUSE THERMAL"
+      (FullPartName "FUSE THERMAL.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("LED BI-COLOUR"
+      (FullPartName "LED BI-COLOUR.Normal")
+      (LibraryName "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY_PARTS.OLB")
+      (DeviceIndex "0"))
+    ("SW 1PDTm-SPDT"
+      (FullPartName "SW 1PDTm-SPDT.Normal")
+      (LibraryName "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY_PARTS.OLB")
+      (DeviceIndex "0"))
+    ("SW 1PDT-SPDT"
+      (FullPartName "SW 1PDT-SPDT.Normal")
+      (LibraryName "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY_PARTS.OLB")
+      (DeviceIndex "0"))
+    ("SW MOM-SPDT"
+      (FullPartName "SW MOM-SPDT.Normal")
+      (LibraryName "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY_PARTS.OLB")
+      (DeviceIndex "0"))
+    ("SW MAG-SPDT"
+      (FullPartName "SW MAG-SPDT.Normal")
+      (LibraryName "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY_PARTS.OLB")
+      (DeviceIndex "0"))
+    ("SW THWHEEL-DEC"
+      (FullPartName "SW THWHEEL-DEC.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CIRCUIT BREAKER"
+      (FullPartName "CIRCUIT BREAKER.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (POWER-PANEL
+      (FullPartName "POWER-PANELA.Normal")
+      (LibraryName "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY_PARTS.OLB")
+      (DeviceIndex "0"))
+    (PowerGuard
+      (FullPartName "PowerGuard.Normal")
+      (LibraryName "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY_PARTS.OLB")
+      (DeviceIndex "0"))
+    ("MOTOR STEPPER"
+      (FullPartName "MOTOR STEPPER.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    ("MOTOR AC"
+      (FullPartName "MOTOR AC.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (GND_EARTH
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (REG1117/SO
+      (FullPartName "REG1117/SO.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\REGULATOR.OLB")
+      (DeviceIndex "0"))
+    (Alternator
+      (FullPartName "Alternator.Normal")
+      (LibraryName "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY_PARTS.OLB")
+      (DeviceIndex "0"))
+    ("RELAY SPST"
+      (FullPartName "RELAY SPST.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BATTERY
+      (FullPartName "BATTERY.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "C:\projects\Cozy_MK4\Schematics\cozy mk4.dsn")
+      (Path "Design Resources" "C:\projects\Cozy_MK4\Schematics\cozy mk4.dsn"
+         "Cozy_schematics")
+      (Path "Design Resources" "C:\projects\Cozy_MK4\Schematics\cozy mk4.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "C:\projects\Cozy_MK4\Schematics\cozy_parts.olb")
+      (Select "Design Resources" "Library"
+         "C:\projects\Cozy_MK4\Schematics\cozy_parts.olb" "RELAY SPDT"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 345 0 571"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 358 1323 29 717")
+        (Scroll "182 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY MK4.DSN")
+      (Schematic "Cozy_schematics")
+      (Page "1_Title"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 259 1520 44 1046")
+        (Scroll "0 528")
+        (Zoom "158")
+        (Occurrence "/"))
+      (Path "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY MK4.DSN")
+      (Schematic "Cozy_schematics")
+      (Page "5_Pwr-Dist"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 180 1512 134 854")
+        (Scroll "745 117")
+        (Zoom "134")
+        (Occurrence "/"))
+      (Path "C:\PROJECTS\COZY_MK4\SCHEMATICS\COZY MK4.DSN")
+      (Schematic "Cozy_schematics")
+      (Page "6_Front_Gear")))
+  (MPSSessionName "tomd"))
